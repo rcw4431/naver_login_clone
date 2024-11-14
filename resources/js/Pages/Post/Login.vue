@@ -21,7 +21,7 @@
                         text-anchor="middle"
                         dominant-baseline="middle"
                     >
-                        NAVER1
+                        NAVER
                     </text>
                 </a>
             </svg>
