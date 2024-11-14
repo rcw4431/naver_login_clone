@@ -20,9 +20,7 @@
                         fill="rgb(3, 199, 90)"
                         text-anchor="middle"
                         dominant-baseline="middle"
-                    >
-                        NAVER
-                    </text>
+                    ></text>
                 </a>
             </svg>
         </div>
