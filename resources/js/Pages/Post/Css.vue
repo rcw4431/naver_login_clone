@@ -1,0 +1,34 @@
+<!-- <template>
+<main>
+  <div class="wrapper">
+    <article class="flow">
+      <h1>Outline effect on the box model</h1>
+      <figure class="callout">
+        <p>Even if we have an outline of 50px like this example, it has no effect on the size of the box.</p>
+      </figure>
+    </article>
+    <div class="box">I am the same size regardless of outline width.</div>
+      </div>
+</main>
+</template>
+
+
+<script setup>
+
+</script>
+
+
+<style scoped>
+.box {
+  outline: 50px solid var(--color-primary-dark);
+}
+
+/* Presentation styles */
+article + * {
+  margin-top: 100px;
+}
+
+
+</style>
+
+   -->
